@@ -1,0 +1,9 @@
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\obj\Debug\ActionTest1.Form1.resources
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\obj\Debug\ActionTest1.Properties.Resources.resources
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\obj\Debug\ActionTest1.csproj.GenerateResource.Cache
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\bin\Debug\ActionTest1.exe
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\bin\Debug\ActionTest1.pdb
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\obj\Debug\ActionTest1.exe
+c:\users\alwar\documents\visual studio 2010\Projects\ActionTest1\ActionTest1\obj\Debug\ActionTest1.pdb
+D:\Bharath\ActionTest1\ActionTest1\obj\Debug\ActionTest1.exe
+D:\Bharath\ActionTest1\ActionTest1\obj\Debug\ActionTest1.pdb
